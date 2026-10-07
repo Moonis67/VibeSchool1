@@ -1,0 +1,19 @@
+project_id = "wvtqegtajobfdfnsixas"
+
+[functions.process-document]
+verify_jwt = false
+
+[functions.transform-vibe]
+verify_jwt = false
+
+[functions.deepgram-tts]
+verify_jwt = false
+
+[functions.edge-tts]
+verify_jwt = false
+
+[functions.cleanup-temp-storage]
+verify_jwt = false
+
+[functions.sessions]
+verify_jwt = false
